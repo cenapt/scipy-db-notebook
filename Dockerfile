@@ -1,3 +1,5 @@
+# Testing integration with Docker hub
+
 FROM jupyter/scipy-notebook
 
 USER $NB_USER
